@@ -1,0 +1,30 @@
+.table-template {
+  background : gray;
+  width: 880px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
+.header {
+  background-color: yellow;
+  width: 880px;
+  height: 40px;
+}
+
+.menulist {
+  background-color: blue;
+  width: 160px;
+  height: 600px;
+
+}
+
+.stockTable {
+  background-color: red;
+  width: 720px;
+
+}
+
+.oneline {
+  display: flex;
+}

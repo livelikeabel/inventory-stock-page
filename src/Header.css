@@ -1,0 +1,15 @@
+.header-template {
+  display: flex;
+}
+
+.menu-title-list {
+  background-color: pink;
+  width: 160px;
+  height: 40px;
+}
+
+.area-title {
+  background-color: green;
+  width: 80px;
+  height: 40px;
+}

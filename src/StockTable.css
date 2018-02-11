@@ -1,0 +1,8 @@
+.stockTable {
+  display: flex;
+}
+
+.stocks {
+  width: 80px;
+  background-color: pink;
+}
